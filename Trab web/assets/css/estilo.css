@@ -1,0 +1,18 @@
+/* style.css */
+.hero {
+    background: url('https://source.unsplash.com/1600x600/?travel') no-repeat center center;
+    background-size: cover;
+    height: 400px;
+    color: white;
+    text-shadow: 2px 2px 4px #000;
+  }
+  
+  .card-title {
+    color: #007BFF;
+    font-weight: bold;
+  }
+  
+  footer {
+    background-color: #343a40;
+    color: #fff;
+  }
